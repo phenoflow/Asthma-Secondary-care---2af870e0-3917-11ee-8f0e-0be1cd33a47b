@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/asthma---secondary.py
+inputModule3:
+  class: File
+  path: python/extrinsic-asthma-secondary-care---secondary.py
+inputModule4:
+  class: File
+  path: python/intrinsic-asthma-secondary-care---secondary.py
+inputModule5:
+  class: File
+  path: python/intermittent-asthma-secondary-care---secondary.py
+inputModule6:
+  class: File
+  path: python/asthma-secondary-care-uncomplicated---secondary.py
+inputModule7:
+  class: File
+  path: python/asthma-secondary-care-exacerbation---secondary.py
+inputModule8:
+  class: File
+  path: python/moderate-asthma-secondary-care---secondary.py
+inputModule9:
+  class: File
+  path: python/severe-asthma-secondary-care---secondary.py
+inputModule10:
+  class: File
+  path: python/obstructive-asthma-secondary-care---secondary.py
+inputModule11:
+  class: File
+  path: python/asthma-secondary-care-forms---secondary.py
+inputModule12:
+  class: File
+  path: python/asthma-secondary-care-unspecified---secondary.py
+inputModule13:
+  class: File
+  path: python/other-asthma-secondary-care---secondary.py
+inputModule14:
+  class: File
+  path: python/asthma-secondary-care-asthmaticus---secondary.py
+inputModule15:
+  class: File
+  path: python/asthma-secondary-care---secondary.py
+inputModule16:
+  class: File
+  path: python/asthma-secondary-care-variant---secondary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
